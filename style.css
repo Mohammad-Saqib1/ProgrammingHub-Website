@@ -1,0 +1,17 @@
+#intro{
+    background-image: url("6.jpg");
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+.abc{
+    margin-top: 100px;
+   margin-left: 15px;
+    
+}
+.extra{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    margin-left: 50%;
+    margin-top: 5px;
+}
